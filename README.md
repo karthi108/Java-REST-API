@@ -21,3 +21,5 @@ DELETE http://localhost:8080/servers/123
 # GET servers by name:
 GET http://localhost:8080/servers?name=centos
 This example provides a basic implementation of the requested REST API using Spring Boot and MongoDB. We can extend it further to include error handling, validation, and additional features as needed.
+
+# The Output screenshot is attached on the task_1 folder
